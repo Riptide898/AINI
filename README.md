@@ -1,0 +1,2 @@
+# AINI
+Coordinate data
